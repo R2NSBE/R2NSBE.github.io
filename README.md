@@ -8,9 +8,8 @@ Make sure that all of the chapters in the region have the opprotunity to showcas
 <ol>
   <li>Download this repo to your local computer</li>
   <li>Create your own github repo called <i>username.github.io</i> **replace "username" with your own github username**
-  <li>Add these files to your new repo</li>
   <li>Change the text and pictures to fit your chapter</li>
-  <li>Push the updates to your repo</li>
+  <li>Add these files to your new repo (recommend the drag and drop method if you don't have git GUI or know git)</li>
   <li>Share the link to your site to the world! **url:username.github.io**</li>
 </ol>
 
